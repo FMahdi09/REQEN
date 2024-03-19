@@ -110,7 +110,7 @@ Which of the following are signs that a user story could be too technical?
 - the main part of the story takes place in the problem zone
 - The role of the story is an IT component TRUE
 - The role of the story is a family member 
-- The role of the story is a project member 
+- The role of the story is a project member TRUE
 - The story entirely takes place in the solution space TRUE
 
 Comments in Gherkin …
